@@ -1,133 +1,133 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/WebSiteDoc_L-T/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/WebSiteDoc_L-T/docs",
           "mainDocId": "quick_start",
           "docs": [
             {
               "id": "api_reference",
-              "path": "/docs/api_reference",
+              "path": "/WebSiteDoc_L-T/docs/api_reference",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "architecture",
-              "path": "/docs/architecture",
+              "path": "/WebSiteDoc_L-T/docs/architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "build_release",
-              "path": "/docs/build_release",
+              "path": "/WebSiteDoc_L-T/docs/build_release",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "database",
-              "path": "/docs/database",
+              "path": "/WebSiteDoc_L-T/docs/database",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "env_and_secrets",
-              "path": "/docs/env_and_secrets",
+              "path": "/WebSiteDoc_L-T/docs/env_and_secrets",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "folder_structure",
-              "path": "/docs/folder_structure",
+              "path": "/WebSiteDoc_L-T/docs/folder_structure",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/WebSiteDoc_L-T/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "maintenance_and_contrib",
-              "path": "/docs/maintenance_and_contrib",
+              "path": "/WebSiteDoc_L-T/docs/maintenance_and_contrib",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "performance",
-              "path": "/docs/performance",
+              "path": "/WebSiteDoc_L-T/docs/performance",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "quick_start",
-              "path": "/docs/quick_start",
+              "path": "/WebSiteDoc_L-T/docs/quick_start",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "references",
-              "path": "/docs/references",
+              "path": "/WebSiteDoc_L-T/docs/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "security_privacy",
-              "path": "/docs/security_privacy",
+              "path": "/WebSiteDoc_L-T/docs/security_privacy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "testing",
-              "path": "/docs/testing",
+              "path": "/WebSiteDoc_L-T/docs/testing",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "troubleshooting",
-              "path": "/docs/troubleshooting",
+              "path": "/WebSiteDoc_L-T/docs/troubleshooting",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "path": "/WebSiteDoc_L-T/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "path": "/WebSiteDoc_L-T/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "path": "/WebSiteDoc_L-T/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -135,7 +135,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/quick_start",
+                "path": "/WebSiteDoc_L-T/docs/quick_start",
                 "label": "quick_start"
               }
             }

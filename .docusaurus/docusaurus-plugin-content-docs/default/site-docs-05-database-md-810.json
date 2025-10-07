@@ -5,10 +5,10 @@
   "source": "@site/docs/05_database.md",
   "sourceDirName": ".",
   "slug": "/database",
-  "permalink": "/docs/database",
+  "permalink": "/WebSiteDoc_L-T/docs/database",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05_database.md",
+  "editUrl": "https://github.com/rutujakagwade/WebSiteDoc_L-T/edit/main/docs/05_database.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "API Reference",
-    "permalink": "/docs/api_reference"
+    "permalink": "/WebSiteDoc_L-T/docs/api_reference"
   },
   "next": {
     "title": "Build & Release Guide",
-    "permalink": "/docs/build_release"
+    "permalink": "/WebSiteDoc_L-T/docs/build_release"
   }
 }

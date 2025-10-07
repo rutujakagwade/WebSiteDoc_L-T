@@ -28,10 +28,10 @@ export default {
     },
     "experimental_router": "browser"
   },
-  "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "url": "https://rutujakagwade.github.io",
+  "baseUrl": "/WebSiteDoc_L-T/",
+  "organizationName": "rutujakagwade",
+  "projectName": "WebSiteDoc_L-T",
   "onBrokenLinks": "throw",
   "i18n": {
     "defaultLocale": "en",
@@ -47,7 +47,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/rutujakagwade/WebSiteDoc_L-T/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
