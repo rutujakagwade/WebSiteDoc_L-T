@@ -1,0 +1,25 @@
+{
+  "id": "folder_structure",
+  "title": "Repository Organization",
+  "description": "Directory Structure",
+  "source": "@site/docs/03_folder_structure.md",
+  "sourceDirName": ".",
+  "slug": "/folder_structure",
+  "permalink": "/docs/folder_structure",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/03_folder_structure.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Congratulations!",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

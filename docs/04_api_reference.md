@@ -350,4 +350,4 @@ Future versions will be explicitly versioned: `/api/v2/`
 
 ## Postman Collection
 
-Import the [L&T Sales Tracker API Collection](docs/postman/lt-sales-tracker.postman_collection.json) for easy API testing.
+<!-- Import the [L&T Sales Tracker API Collection](docs/postman/lt-sales-tracker.postman_collection.json) for easy API testing. -->

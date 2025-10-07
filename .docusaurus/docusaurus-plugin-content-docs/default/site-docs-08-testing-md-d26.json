@@ -1,0 +1,25 @@
+{
+  "id": "testing",
+  "title": "Testing Guide",
+  "description": "This guide provides a comprehensive testing strategy for the L&T Sales Tracker application. While the current codebase doesn't include tests, this document outlines the recommended testing approach and provides examples for implementation.",
+  "source": "@site/docs/08_testing.md",
+  "sourceDirName": ".",
+  "slug": "/testing",
+  "permalink": "/docs/testing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/08_testing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Environment Variables & Secrets Management",
+    "permalink": "/docs/env_and_secrets"
+  },
+  "next": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/docs/troubleshooting"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "database",
+  "title": "Database Documentation",
+  "description": "Overview",
+  "source": "@site/docs/05_database.md",
+  "sourceDirName": ".",
+  "slug": "/database",
+  "permalink": "/docs/database",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/05_database.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/docs/api_reference"
+  },
+  "next": {
+    "title": "Build & Release Guide",
+    "permalink": "/docs/build_release"
+  }
+}

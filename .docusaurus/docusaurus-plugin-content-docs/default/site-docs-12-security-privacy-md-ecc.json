@@ -1,0 +1,25 @@
+{
+  "id": "security_privacy",
+  "title": "Security & Privacy Guide",
+  "description": "This document outlines the security measures, privacy considerations, and compliance guidelines for the L&T Sales Tracker application.",
+  "source": "@site/docs/12_security_privacy.md",
+  "sourceDirName": ".",
+  "slug": "/security_privacy",
+  "permalink": "/docs/security_privacy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/12_security_privacy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "External References",
+    "permalink": "/docs/references"
+  },
+  "next": {
+    "title": "Performance Optimization Guide",
+    "permalink": "/docs/performance"
+  }
+}

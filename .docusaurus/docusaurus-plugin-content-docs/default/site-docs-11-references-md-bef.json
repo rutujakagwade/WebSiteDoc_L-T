@@ -1,0 +1,25 @@
+{
+  "id": "references",
+  "title": "External References",
+  "description": "This document provides links to official documentation, community resources, and tutorials for the major technologies and libraries used in the L&T Sales Tracker application.",
+  "source": "@site/docs/11_references.md",
+  "sourceDirName": ".",
+  "slug": "/references",
+  "permalink": "/docs/references",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/11_references.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Maintenance & Contributing Guide",
+    "permalink": "/docs/maintenance_and_contrib"
+  },
+  "next": {
+    "title": "Security & Privacy Guide",
+    "permalink": "/docs/security_privacy"
+  }
+}

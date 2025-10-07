@@ -1,0 +1,21 @@
+{
+  "id": "performance",
+  "title": "Performance Optimization Guide",
+  "description": "This document outlines performance optimization strategies, monitoring approaches, and best practices for the L&T Sales Tracker application.",
+  "source": "@site/docs/13_performance.md",
+  "sourceDirName": ".",
+  "slug": "/performance",
+  "permalink": "/docs/performance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/13_performance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security & Privacy Guide",
+    "permalink": "/docs/security_privacy"
+  }
+}

@@ -397,7 +397,7 @@ describe('Journey Tracking Flow', () => {
 ### Postman Collection
 
 1. **Export collection from Postman**
-2. **Save to `docs/postman/lt-sales-tracker.postman_collection.json`**
+<!-- 2. **Save to `docs/postman/lt-sales-tracker.postman_collection.json`** -->
 3. **Include environment variables file**
 
 ### Example API Test Script

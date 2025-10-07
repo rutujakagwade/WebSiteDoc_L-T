@@ -1,0 +1,21 @@
+{
+  "id": "quick_start",
+  "title": "Quick Start Guide",
+  "description": "This guide will help you get the L&T Sales Tracker application up and running in your development environment within 15-20 minutes.",
+  "source": "@site/docs/01_quick_start.md",
+  "sourceDirName": ".",
+  "slug": "/quick_start",
+  "permalink": "/docs/quick_start",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/01_quick_start.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

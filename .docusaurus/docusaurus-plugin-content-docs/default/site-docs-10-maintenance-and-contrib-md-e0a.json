@@ -1,0 +1,25 @@
+{
+  "id": "maintenance_and_contrib",
+  "title": "Maintenance & Contributing Guide",
+  "description": "This document outlines the procedures for maintaining the L&T Sales Tracker application and guidelines for contributing to its development.",
+  "source": "@site/docs/10_maintenance_and_contrib.md",
+  "sourceDirName": ".",
+  "slug": "/maintenance_and_contrib",
+  "permalink": "/docs/maintenance_and_contrib",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/10_maintenance_and_contrib.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/docs/troubleshooting"
+  },
+  "next": {
+    "title": "External References",
+    "permalink": "/docs/references"
+  }
+}

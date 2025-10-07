@@ -1,0 +1,25 @@
+{
+  "id": "api_reference",
+  "title": "API Reference",
+  "description": "Overview",
+  "source": "@site/docs/04_api_reference.md",
+  "sourceDirName": ".",
+  "slug": "/api_reference",
+  "permalink": "/docs/api_reference",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/04_api_reference.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Database Documentation",
+    "permalink": "/docs/database"
+  }
+}

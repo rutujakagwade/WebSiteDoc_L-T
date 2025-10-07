@@ -1,0 +1,23 @@
+{
+  "id": "performance",
+  "title": "Performance Optimization Guide",
+  "description": "Current Performance Analysis",
+  "source": "@site/docs/performance.md",
+  "sourceDirName": ".",
+  "slug": "/performance",
+  "permalink": "/docs/performance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/performance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security & Privacy Guide",
+    "permalink": "/docs/security_privacy"
+  }
+}
