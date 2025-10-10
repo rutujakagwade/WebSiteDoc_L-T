@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug', '301'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/config',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/config', 'b8c'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/content',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/content', '582'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/globalData',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/globalData', '462'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/metadata',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/metadata', '69d'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/registry',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/registry', 'e51'),
+    exact: true
+  },
+  {
+    path: '/WebSiteDoc_L-T/__docusaurus/debug/routes',
+    component: ComponentCreator('/WebSiteDoc_L-T/__docusaurus/debug/routes', 'e06'),
+    exact: true
+  },
+  {
     path: '/WebSiteDoc_L-T/blog',
     component: ComponentCreator('/WebSiteDoc_L-T/blog', 'f03'),
     exact: true

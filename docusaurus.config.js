@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 const config = {
   title: 'L&T Sales Tracker',
   tagline: 'Track sales activities and manage member journeys efficiently',
-  url: 'https://your-docusaurus-site.com',
-  baseUrl: '/',
+url: 'https://rutujakagwade.github.io',
+baseUrl: '/WebSiteDoc_L-T/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  organizationName: 'ACPL',
-  projectName: 'L-T-Case',
+ organizationName: 'rutujakagwade',
+projectName: 'WebSiteDoc_L-T',
 
   i18n: {
     defaultLocale: 'en',
